@@ -1,1 +1,467 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local L={"\119\084\119\054\067\120\069\088","\048\116\077\110\088\104\098\085\086\117\083\061","\103\086\087\078\072\111\114\072\103\121\069\080\118\083\115\089","\070\055\049\119\085\085\055\115\099\099\067\103\049\115\103\069\047\050\080\079\105\103\122\061";"\104\055\049\089\106\076\065\066\100\108\067\083\069\057\112\086\119\074\106\085\051\110\074\110\067\052\090\068\071\073\102\114\122\115\081\105","\057\049\043\108\120\116\121\067";"\108\099\047\102\106\085\052\049\074\088\053\085\077\076\085\068\106\050\085\048\071\082\078\061","\112\104\113\097\109\081\119\099\090\100\085\061";"\087\112\114\116\048\083\052\117\082\047\061\061","\122\102\083\081\079\068\048\070\067\100\068\084\103\065\102\116","\102\121\082\100\069\120\118\083\112\121\067\079\114\071\049\070\089\097\097\106","\109\054\116\077","\053\098\065\073\074\056\085\102\066\112\055\088\100\056\065\068","\088\121\048\075\109\102\120\078\078\047\061\061","\057\051\104\108\079\085\061\061";"\118\056\084\049\050\085\061\061";"\078\077\110\089\074\112\102\105\065\066\105\112\120\085\085\086\114\112\077\054";"\080\100\074\113\088\047\061\061";"\110\072\079\085","\047\086\105\112\084\085\061\061";"\088\083\103\103\082\119\078\119\104\083\047\050\084\119\077\081\085\057\090\100\107\074\083\104\076\098\049\048\116\068\056\115\070\090\108\075\083\102\099\086\073\068\082\111\090\080\099\054\100\100\110\070\079\047\061\061";"\115\072\102\049\116\047\061\061";"\111\109\071\073\082\082\082\049\089\073\105\112\049\097\061\061","\116\052\055\090\080\116\111\051\099\054\048\099\077\089\086\085\084\117\069\101\109\110\057\114\075\069\053\082\065\047\061\061","\105\109\048\055\122\106\050\076\113\100\081\087\056\112\087\049\097\070\086\057\085\097\061\061","\100\068\097\109\102\118\112\082\102\065\047\061";"\051\077\077\070\076\089\061\061";"\116\079\080\050\098\085\061\061";"\067\054\052\089\120\118\104\110","\088\068\085\120\111\111\073\110\115\075\079\070","\079\075\053\068\053\085\061\061";"\111\051\103\113\114\080\083\061";"\065\099\084\048\112\114\086\111\087\047\061\061";"\099\080\055\077\120\070\108\055\122\110\120\055\122\097\061\061";"\099\083\054\114\100\072\103\108\108\118\057\104\088\112\102\072","\074\114\055\078";"\113\098\088\119\082\047\061\061","\088\074\043\111\077\100\113\071\079\097\061\061","\065\109\049\104\071\089\061\061","\073\051\103\097\068\071\076\048\117\055\120\100\101\085\061\061","\076\083\100\111","\078\090\073\097\077\084\118\053\049\098\113\083\069\120\116\074\081\054\110\083\057\066\119\061";"\085\079\086\120\115\097\061\061";"\076\053\102\056\121\118\121\069\101\117\065\110\106\085\061\061";"\078\090\081\121","\083\118\112\089\078\074\073\076\057\068\119\061","\084\083\056\104\043\097\061\061";"\049\104\075\080\111\072\065\070\084\117\085\067\113\054\071\113\051\115\071\098\089\114\112\085\116\102\071\118\052\087\047\110\121\111\111\103\110\100\073\120\117\089\065\078\089\114\088\069\086\081\108\074\056\049\074\108\083\085\061\061";"\117\047\061\061","\074\057\105\070\118\097\061\061";"\057\057\101\076\068\115\105\088\111\087\089\047\117\067\078\090\120\066\099\101\108\051\054\061";"\118\051\121\106\085\054\108\076\068\097\061\061","\122\056\108\048\053\084\082\065\106\055\057\106\070\083\057\052\108\067\085\061","\112\068\066\057\067\089\061\061";"\106\068\054\083\120\078\075\047\122\110\065\099\066\070\087\048\089\097\061\061","\116\119\090\075\070\104\090\111\104\097\090\081";"\073\047\120\080\073\048\043\050\051\052\103\121\050\085\061\061","\082\071\065\047\115\089\061\061","\097\098\069\089\050\074\087\047\108\111\052\061";"\053\081\057\089\053\067\120\100\053\116\075\052\106\070\103\102";"\088\102\071\080\106\085\061\061","\122\102\070\068\083\088\085\066\053\073\121\082\055\089\061\061","\047\079\086\074\043\097\061\061","\112\083\056\107\055\085\061\061";"\106\068\082\053\122\078\115\080\066\067\097\114\099\098\087\117\100\078\119\061","\106\115\083\118\073\113\117\115\111\078\084\061","\067\082\111\119\120\106\079\061","\098\102\108\101","\113\097\074\077\097\057\066\109\084\117\053\047\056\054\097\079\074\097\061\061","\112\097\108\065\105\074\121\122\077\068\071\106";"\099\080\055\104\120\112\120\075\122\110\108\083\089\114\057\075\086\068\089\061";"\106\109\069\066\057\097\061\061";"\052\074\056\112\080\068\079\104\111\104\107\110\088\121\082\112\089\072\119\079\074\047\061\061","\067\057\048\079\087\090\071\116\088\100\078\061";"\049\072\108\072\066\110\099\106\122\083\070\067\087\055\057\117\120\089\061\061","\099\067\112\047\087\078\083\079\086\080\111\110\087\110\070\053";"\104\075\076\086\090\089\119\073\115\068\111\113\068\085\061\061";"\100\101\066\053\073\120\076\122\111\050\068\107\114\090\071\113\112\073\111\084\080\047\061\061";"\100\082\117\088\083\085\061\061";"\087\053\122\084\050\054\073\050\104\080\069\075\118\099\117\068\057\115\107\110\070\113\076\065\075\047\061\061","\114\055\116\087\115\089\061\061";"\099\054\069\074\087\057\102\090\050\100\050\070\084\111\116\097\110\098\068\086\050\085\061\061","\072\114\117\070\088\051\107\115\115\047\061\061","\101\117\117\099\051\087\054\061";"\118\088\083\085\055\048\053\113\106\118\067\104\104\056\067\113\119\104\056\043\056\085\061\061","\119\086\107\114\114\053\072\057\118\051\109\101\114\089\061\061";"\109\043\122\104\098\089\061\061";"\098\088\075\048\120\097\061\061","\069\111\056\043\055\050\084\084\110\109\106\090\075\074\066\109";"\068\119\088\084\047\098\105\053\117\119\102\081\105\089\061\061";"\049\106\099\122\122\077\108\057\075\114\088\101\065\106\053\049\057\067\114\073","\052\111\084\111","\122\114\070\083\086\106\070\083\100\067\099\057\100\080\115\055";"\079\065\051\077\071\049\117\122\079\043\079\056\110\067\087\053\105\079\109\073","\121\100\112\067\105\102\070\076";"\049\056\099\075\070\110\120\108\087\114\099\115\053\084\075\070\122\097\061\061";"\074\114\068\116\048\109\079\089\090\043\100\061";"\083\043\080\101\108\067\112\099","\089\071\074\102\081\109\068\076","\047\112\108\089\048\116\104\067\122\089\061\061","\085\075\081\056\120\103\051\084\072\047\061\061","\122\102\080\084\081\047\061\061";"\098\089\104\122\073\082\087\098\101\113\111\115\101\068\067\051\088\076\102\048";"\077\082\080\087\090\099\051\117\106\076\057\090\068\085\061\061";"\112\102\072\108\088\049\056\077";"\066\056\067\111\107\115\118\106\108\121\069\112\054\102\121\105\072\102\111\065\118\089\061\061";"\100\078\057\100\076\106\082\073\088\069\072\055\097\089\105\052\099\090\043\073","\082\075\119\056\087\098\110\073\048\085\073\108\100\108\053\047\065\089\061\061","\114\104\118\098\052\075\097\087\055\084\121\055\069\066\075\119";"\106\090\108\114\110\043\084\056";"\114\089\090\113\086\049\089\055\101\069\105\073","\115\074\118\068\118\120\113\115\107\098\109\075\066\100\111\055\114\122\101\072\106\116\057\051","\103\076\112\103","\057\109\101\090\117\110\088\087\054\085\084\102\079\097\061\061";"\079\101\066\083\118\079\081\107","\079\107\116\075\111\097\061\061","\113\121\065\121\105\073\116\083\115\111\082\099\116\051\077\106\078\085\061\061","\071\122\068\070\122\117\070\054\055\086\106\101\112\085\061\061","\120\112\111\080\088\084\082\118\066\098\070\070\120\084\087\114\100\110\084\061";"";"\072\115\057\069\070\086\050\084\114\112\114\104\075\047\061\061";"\071\080\114\057\069\097\061\061";"\066\101\075\075","\111\109\065\098\084\082\047\100\065\043\053\074\057\068\100\050\085\047\075\084\089\118\083\061";"\083\047\061\061","\082\122\102\054\098\056\122\061","\115\085\061\061";"\053\077\112\049\105\110\104\073\101\118\106\090\097\080\052\097\079\115\043\080\069\108\119\061";"\077\077\100\099\112\080\106\111\051\103\100\047\053\119\079\055\116\104\078\061","\120\047\043\086\054\113\098\073\077\119\112\061";"\117\097\068\101","\076\043\086\088\072\072\098\088\097\085\105\106\087\052\079\061";"\120\068\070\119\100\067\078\061";"\073\089\109\053\079\047\098\083\079\090\121\066\098\122\047\108\077\115\065\082";"\057\118\078\069\102\110\075\109\114\097\061\061","\101\085\119\104\097\048\116\114\068\065\097\114\071\072\078\051\114\052\049\069\101\097\061\061","\049\043\111\076\119\085\061\061";"\081\073\089\114\102\100\043\107\111\050\079\061";"\100\081\109\053\089\051\047\105\043\051\103\121";"\119\086\069\086\109\047\061\061";"\109\117\082\122\083\097\061\061","\082\117\053\075\054\071\080\065\070\066\116\118\083\097\061\061","\066\054\079\099\122\065\075\050\109\047\061\061","\072\110\057\111\066\047\061\061";"\088\084\074\115\106\118\108\067\070\068\065\078\070\116\057\065\088\089\061\061";"\087\114\116\077\086\097\061\061";"\057\053\111\081\110\047\061\061";"\103\108\057\112\069\119\118\116\106\118\069\061";"\090\088\113\109";"\073\112\065\083\108\080\115\080\049\114\065\047\073\118\108\089\120\089\061\061","\106\109\074\107";"\098\103\071\107\072\080\111\071\056\108\090\075\081\098\103\084\110\043\078\061";"\115\089\101\074\114\089\061\061";"\100\118\070\083\122\112\065\076\122\106\122\047\070\106\108\104";"\073\112\082\090\073\114\070\104\073\112\047\082\086\116\078\072\086\089\061\061","\052\120\051\100","\049\073\103\098";"\075\087\099\109\073\070\053\088\075\077\052\061";"\120\068\055\049\106\116\099\100\122\089\061\061","\076\072\057\113\049\054\099\112\069\104\052\061","\071\085\076\067\085\055\109\087\087\097\061\061","\069\118\108\043\098\101\047\087\109\080\117\107\108\115\122\110\118\103\068\070\071\097\061\061","\055\047\061\061";"\117\088\118\057\097\047\061\061","\099\100\097\085\099\089\047\103\083\047\061\061","\067\076\098\113\079\107\069\085\120\056\100\065\080\079\065\053","\084\047\080\055\047\085\061\061","\089\114\111\104\086\080\070\118\087\085\061\061";"\050\065\076\055\089\089\061\061";"\050\119\101\110";"\076\103\098\107\051\076\077\114\072\089\061\061";"\116\089\061\061","\103\086\116\055\051\085\061\061","\053\114\083\086";"\076\104\105\084";"\097\069\081\056\085\112\101\081\084\121\075\050\077\085\061\061";"\076\069\068\114\108\111\047\122\084\100\055\109\083\080\109\043\122\053\065\067\108\054\072\066\048\105\084\043\055\090\118\121\055\053\085\097\073\111\119\061","\043\071\072\114";"\122\086\051\083\114\108\087\097\071\103\055\049\105\089\061\061";"\120\114\082\057\087\068\108\052","\117\076\104\121";"\072\112\120\089\100\109\102\052\100\107\090\086\043\098\088\076\082\115\087\066\067\081\100\051\056\097\119\103\117\113\049\122\119\068\083\073","\051\067\106\117\110\081\114\067\069\088\097\061","\111\086\115\113";"\049\108\071\106\076\067\078\112\103\048\049\106\113\043\079\112\073\050\079\061","\083\099\107\117","\097\051\089\086\104\043\080\075\100\049\109\111\097\089\061\061";"\109\055\112\070\068\085\061\061";"\104\067\109\065\111\087\114\108\057\068\079\110\115\103\065\112\068\109\119\061","\100\116\048\066\052\073\104\047\087\100\075\098\082\114\122\105\102\079\088\107\083\047\061\061";"\104\077\119\068\054\098\074\083\100\089\061\061","\050\084\086\074\084\070\056\069\100\090\067\051\078\089\061\061";"\083\077\109\099\122\121\090\084\066\087\084\107\048\118\069\053\084\116\100\067\075\054\078\061","\053\097\061\061","\086\077\072\079\112\089\061\061";"\057\099\043\086\072\088\072\068","\054\052\056\102","\120\049\051\086\075\065\118\108\089\085\061\061","\116\080\057\049\117\108\114\077\053\047\061\061","\111\121\048\086\112\075\075\107\109\097\114\065\108\065\076\098\074\120\119\061","\086\106\116\083\073\085\061\061","\088\067\108\103";"\118\115\072\066\104\070\074\080\048\108\053\087\099\085\061\061","\117\103\090\098\077\117\054\049\077\084\113\107\051\117\051\110\116\077\079\061","\075\075\119\111\075\089\061\061";"\070\084\099\075\086\049\069\061","\117\082\056\110\101\077\121\099\099\087\101\067\052\103\085\061";"\066\067\116\098\087\072\087\079\087\098\070\084\066\081\087\098\073\072\112\061","\120\114\116\105\120\089\061\061";"\051\108\087\114","\054\122\047\104\052\055\111\082\087\077\115\083\048\097\061\061","\084\114\111\106\074\056\112\077\108\116\089\083\108\084\079\079\087\047\061\061";"\052\074\056\121\066\100\052\115\084\073\103\079\098\097\113\099\116\108\109\102\080\089\061\061";"\043\073\089\118\049\067\105\102\074\073\069\061","\075\111\050\067\101\076\111\065\054\072\103\106\072\099\078\102\119\115\052\061";"\116\099\105\047\071\112\089\074\074\075\112\061";"\103\104\068\088\084\107\103\087";"\120\119\088\116\089\102\068\088\090\078\079\061","\100\114\111\104\100\114\116\083";"\075\121\065\083\071\114\106\069\077\051\050\099\076\114\109\104\051\047\061\061";"\102\099\050\119\079\088\110\111\102\112\057\055\050\055\101\115\089\089\061\061","\100\053\082\056\107\057\047\101\055\070\115\089\049\056\116\057\087\117\083\061","\099\084\120\108\070\049\070\117\074\112\099\102\099\110\103\090","\083\114\072\083","\049\118\043\076","\055\120\068\081\108\082\097\070\105\116\075\075\074\052\122\076\111\105\075\079\067\051\119\054\051\118\072\074\057\047\111\116\086\103\100\080\104\047\061\061","\086\081\112\061";"\099\106\082\102\089\056\065\101\049\070\103\105\066\106\087\101\087\114\112\061";"\087\068\111\056\087\098\065\075\086\080\122\061","\107\122\079\050\076\100\115\084\117\065\081\054\076\074\047\101\116\052\050\087\105\118\112\061";"\099\111\114\105","\099\114\070\083\084\114\070\077\087\080\055\118\120\089\061\061","\087\110\081\107\106\105\098\100\076\043\099\085\106\069\090\116\079\053\112\077\056\097\061\061","\053\057\065\086\098\097\061\061";"\112\103\104\052\067\122\109\099\054\066\081\050\068\089\082\085\053\071\101\108";"\053\071\066\072\080\047\061\061","\122\114\070\083\100\114\115\075\122\068\065\117\100\067\065\078";"\069\120\053\082\083\097\061\061","\108\076\101\067\120\087\051\085\082\043\105\102\068\085\061\061","\101\079\099\087\100\070\080\120\066\116\049\098\073\087\077\110\116\089\106\114\088\071\065\108\071\084\065\081\080\085\061\061";"\079\053\114\107\053\054\047\082\119\067\054\061";"\089\086\081\122\069\122\114\103\110\082\068\108\050\077\097\107","\116\072\082\115\106\099\084\108\065\085\061\061";"\049\070\080\120\104\054\075\114";"\099\068\070\056\087\098\065\117\066\089\061\061";"\100\047\105\068","\112\122\121\102\070\068\116\048\071\122\101\048\043\085\061\061";"\114\079\119\050\065\105\052\115";"\088\047\107\098";"\100\082\097\082\086\084\055\102\074\118\055\067\099\068\055\084\120\097\061\061","\099\072\052\098\074\112\079\116\086\047\061\061","\048\083\075\072\086\112\047\102\082\111\056\119\107\089\061\061","\081\065\086\072\121\089\061\061";"\053\107\121\118\100\074\052\114\082\085\061\061";"\073\117\079\118\074\082\071\111\048\052\085\084";"\098\074\066\051\083\085\087\068\076\074\076\090\048\083\053\081\098\048\084\049\087\105\089\061","\111\079\098\050\083\043\086\100\119\049\048\111\122\122\103\048\049\089\061\061","\069\100\047\086\111\073\101\055\043\088\090\076\072\047\061\061","\108\121\068\082\087\118\114\117";"\077\043\105\087\084\120\080\120\075\043\099\070\075\085\061\061","\105\051\106\051";"\099\068\055\056\100\114\111\104\086\080\070\118\087\085\061\061";"\048\079\090\115\097\076\097\054\072\056\116\082\050\097\061\061";"\116\098\122\119\068\073\072\079\071\085\061\061","\118\075\080\049","\121\119\075\119\101\079\120\067","\120\067\065\077\086\072\069\061","\051\048\103\101","\106\098\116\071\120\082\085\082\108\080\087\116\049\082\055\115";"\076\101\072\116\111\047\047\100\105\065\100\061","\056\119\122\057","\122\122\103\116\082\074\107\087\065\099\111\051\118\076\084\086\071\079\101\111\054\089\061\061";"\120\113\081\107\114\065\087\098\101\118\051\065\097\085\061\061";"\050\085\119\065";"\073\075\105\100\099\089\061\061","\043\081\100\079\077\104\074\061";"\057\099\120\107";"\089\083\057\052\108\072\075\053\074\083\097\079\088\083\112\082\087\089\061\061";"\087\114\065\088\088\083\120\079\073\084\100\102\053\067\052\077","\121\074\118\087";"\085\080\050\081\047\112\090\117\108\116\103\052\072\089\061\061","\073\079\100\079","\073\080\057\084\087\068\111\047\087\083\082\100\108\056\120\115";"\106\087\119\043\073\043\097\067\078\099\070\098\116\109\050\048\050\047\118\122\103\047\061\061";"\112\070\081\071\081\113\084\077","\071\082\118\101","\120\072\108\082\100\097\061\061","\068\121\065\052\057\120\106\072\068\083\119\061","\081\100\069\071";"\055\109\101\108\103\117\083\106\073\109\105\070\057\076\070\065\121\088\085\061";"\075\107\075\111\088\097\056\050\105\050\100\072\122\081\072\072\098\122\101\065\078\097\061\061";"\087\102\115\079\050\073\074\061";"\122\098\065\075\086\110\089\061";"\086\101\078\043\087\048\054\103\102\084\089\061";"\053\081\120\082\089\070\122\047\122\118\070\101\099\083\100\082\087\097\061\061";"\052\106\101\072","\049\075\043\076\066\114\117\055\110\097\061\061","\090\074\116\097\082\052\075\084\077\053\057\072\083\089\061\061","\084\074\067\121\103\089\061\061","\097\056\120\100\071\069\043\071\098\073\054\118\066\069\114\116\090\048\118\083\057\116\075\114\075\049\048\087\073\050\121\080\068\082\121\078\102\073\120\120\113\097\112\090\117\118\097\086\050\079\071\052\050\121\105\078\107\101\054\054\069\047\061\061";"\071\121\070\100\083\068\080\079\090\049\079\043\097\085\086\087\074\072\119\061";"\065\084\119\114\054\097\061\061";"\087\101\117\090\079\084\048\073\078\069\052\073\107\054\079\053\116\102\053\074\100\047\061\061";"\113\105\072\112\050\075\085\054\104\120\112\107\065\070\070\083\103\080\051\068\077\057\098\100\115\071\102\083\053\047\116\090\066\105\119\061";"\048\074\065\107\043\047\066\052","\071\056\055\075\050\050\107\076\070\072\104\067\055\047\061\061";"\117\098\098\056\117\047\061\061","\072\082\100\049\102\083\098\080","\090\085\084\107\101\121\057\106\082\114\047\110\119\071\052\103\108\065\114\116\116\100\079\061";"\118\080\051\120\120\079\071\070\082\082\113\079\051\043\116\049","\079\069\071\075\112\049\115\052";"\069\080\080\119\073\103\071\108\056\097\061\061";"\070\086\118\082\097\113\097\074";"\099\101\099\056";"\111\085\082\088\115\056\075\112\069\114\066\103\089\047\061\061";"\073\080\115\090\104\089\061\061","\086\081\069\061","\121\055\082\104\116\081\120\114";"\053\106\070\083\120\110\087\103\049\082\116\057\070\106\108\107","\067\082\111\105\120\067\099\057\087\068\116\090\086\068\084\061";"\070\086\104\076\082\047\061\061";"\084\084\047\115\074\067\057\043\070\072\108\077\049\098\103\052\088\081\069\061","\089\111\104\078\069\090\106\089","\075\108\084\077";"\073\099\113\065\075\114\066\081\082\054\055\066\057\070\116\101\119\097\061\061","\111\056\054\122\050\116\074\061","\086\088\113\057";"\056\081\077\082\084\107\048\118\053\088\065\068\081\098\109\048\088\114\057\112\052\075\107\053\111\106\114\109\108\109\110\118\116\079\080\071\118\111\109\110\103\078\086\107\111\115\121\074\105\085\068\047\084\117\052\065\066\118\110\100","\068\099\069\101\052\043\054\078\099\076\100\061";"\070\105\108\055\117\111\088\051","\120\057\111\056\056\047\061\061","\103\050\051\075","\053\090\097\055\120\076\052\075\053\097\061\061";"\100\097\049\100\065\051\077\078\086\053\089\121\117\085\061\061";"\066\119\121\120\067\085\061\061","\122\080\116\104\120\068\111\105","\067\085\102\097\100\110\119\077";"\088\114\099\081\088\080\070\101\074\070\057\048\089\049\099\103\049\097\061\061","\053\098\115\057\055\115\107\117\083\048\052\055\122\097\061\061","\120\080\115\117\086\072\069\061","\120\055\116\049\049\110\099\101\066\055\065\071\053\112\087\065\073\047\061\061";"\070\048\114\070\084\074\085\080\047\065\097\056\111\085\061\061";"\088\084\082\079\099\106\099\120\066\116\075\081\070\112\100\072\049\112\047\061","\069\043\047\056\053\118\105\120\078\090\056\088\056\097\061\061","\098\047\077\111\104\115\114\071\053\120\071\048\081\070\115\101\121\089\061\061";"\107\103\108\086\089\043\074\102\049\103\100\061","\083\073\067\071\066\117\119\105\115\074\109\120\043\053\112\087\087\080\098\101\043\113\087\071\097\084\048\122\106\084\109\066\048\088\101\083\080\097\065\084\103\114\082\118\075\055\066\053\121\047\088\112\050\052\119\061";"\053\050\072\120\073\109\104\097\055\110\079\087\120\090\076\121";"\107\104\078\080\112\055\108\1
+-- Roblox Mobile Spam System - BLUE THEME WITH GOLD TEXT
+-- Small, draggable, with single spam mode
+-- Made by Mikeexc
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+local TextChatService = game:GetService("TextChatService")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+
+-- Spam variables
+local spamActive = false
+local spamThread = nil
+local SPAM_INTERVAL = 1.5
+local currentMessageIndex = 1
+local spamMode = "auto" -- "auto" or "single"
+
+-- Create GUI
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "SpamSystem"
+ScreenGui.Parent = PlayerGui
+
+-- Main frame (FULLY DRAGGABLE) - BLUE THEME
+local MainFrame = Instance.new("TextButton")
+MainFrame.Size = UDim2.new(0, 280, 0, 380)
+MainFrame.Position = UDim2.new(0, 30, 0, 30)
+MainFrame.BackgroundColor3 = Color3.fromRGB(25, 40, 65) -- Dark blue
+MainFrame.BorderSizePixel = 0
+MainFrame.Text = ""
+MainFrame.AutoButtonColor = false
+MainFrame.Parent = ScreenGui
+
+local UICorner = Instance.new("UICorner")
+UICorner.CornerRadius = UDim.new(0, 10)
+UICorner.Parent = MainFrame
+
+-- Title bar - Blue theme with gold text
+local TitleBar = Instance.new("Frame")
+TitleBar.Size = UDim2.new(1, 0, 0, 35)
+TitleBar.Position = UDim2.new(0, 0, 0, 0)
+TitleBar.BackgroundColor3 = Color3.fromRGB(40, 80, 140) -- Medium blue
+TitleBar.BorderSizePixel = 0
+TitleBar.Parent = MainFrame
+
+local TitleCorner = Instance.new("UICorner")
+TitleCorner.CornerRadius = UDim.new(0, 10)
+TitleCorner.Parent = TitleBar
+
+local TitleLabel = Instance.new("TextLabel")
+TitleLabel.Size = UDim2.new(1, -40, 1, 0)
+TitleLabel.Position = UDim2.new(0, 10, 0, 0)
+TitleLabel.BackgroundTransparency = 1
+TitleLabel.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+TitleLabel.Text = "SPAM SYSTEM"
+TitleLabel.TextScaled = true
+TitleLabel.Font = Enum.Font.GothamBold
+TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+TitleLabel.Parent = TitleBar
+
+-- Made by MikeExc label - Gold text
+local MadeByLabel = Instance.new("TextLabel")
+MadeByLabel.Size = UDim2.new(1, -10, 0, 15)
+MadeByLabel.Position = UDim2.new(0, 5, 1, -18)
+MadeByLabel.BackgroundTransparency = 1
+MadeByLabel.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+MadeByLabel.Text = "Made by Mikeexc"
+MadeByLabel.TextScaled = true
+MadeByLabel.Font = Enum.Font.Gotham
+MadeByLabel.TextXAlignment = Enum.TextXAlignment.Right
+MadeByLabel.Parent = MainFrame
+
+-- Close button - Blue theme
+local CloseButton = Instance.new("TextButton")
+CloseButton.Size = UDim2.new(0, 25, 0, 25)
+CloseButton.Position = UDim2.new(1, -30, 0.5, -12.5)
+CloseButton.BackgroundColor3 = Color3.fromRGB(200, 60, 60)
+CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.Text = "X"
+CloseButton.Font = Enum.Font.GothamBold
+CloseButton.TextScaled = true
+CloseButton.Parent = TitleBar
+
+local CloseCorner = Instance.new("UICorner")
+CloseCorner.CornerRadius = UDim.new(0, 6)
+CloseCorner.Parent = CloseButton
+
+-- Content area
+local ContentFrame = Instance.new("Frame")
+ContentFrame.Size = UDim2.new(1, -15, 1, -70)
+ContentFrame.Position = UDim2.new(0, 7.5, 0, 45)
+ContentFrame.BackgroundTransparency = 1
+ContentFrame.Parent = MainFrame
+
+-- Mode selection - Blue theme with gold text
+local ModeFrame = Instance.new("Frame")
+ModeFrame.Size = UDim2.new(1, 0, 0, 30)
+ModeFrame.Position = UDim2.new(0, 0, 0, 0)
+ModeFrame.BackgroundColor3 = Color3.fromRGB(35, 65, 110) -- Dark blue
+ModeFrame.BorderSizePixel = 0
+ModeFrame.Parent = ContentFrame
+
+local ModeCorner = Instance.new("UICorner")
+ModeCorner.CornerRadius = UDim.new(0, 6)
+ModeCorner.Parent = ModeFrame
+
+local AutoModeButton = Instance.new("TextButton")
+AutoModeButton.Size = UDim2.new(0.5, -2, 1, 0)
+AutoModeButton.Position = UDim2.new(0, 0, 0, 0)
+AutoModeButton.BackgroundColor3 = Color3.fromRGB(30, 100, 200) -- Bright blue
+AutoModeButton.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+AutoModeButton.Text = "AUTO"
+AutoModeButton.Font = Enum.Font.GothamBold
+AutoModeButton.TextScaled = true
+AutoModeButton.Parent = ModeFrame
+
+local SingleModeButton = Instance.new("TextButton")
+SingleModeButton.Size = UDim2.new(0.5, -2, 1, 0)
+SingleModeButton.Position = UDim2.new(0.5, 2, 0, 0)
+SingleModeButton.BackgroundColor3 = Color3.fromRGB(50, 80, 120) -- Darker blue
+SingleModeButton.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+SingleModeButton.Text = "SINGLE"
+SingleModeButton.Font = Enum.Font.GothamBold
+SingleModeButton.TextScaled = true
+SingleModeButton.Parent = ModeFrame
+
+-- Create 6 message boxes - Blue theme with gold text
+local messageBoxes = {}
+
+for i = 1, 6 do
+    local messageFrame = Instance.new("Frame")
+    messageFrame.Size = UDim2.new(1, 0, 0, 38)
+    messageFrame.Position = UDim2.new(0, 0, 0, (i-1) * 43 + 35)
+    messageFrame.BackgroundColor3 = Color3.fromRGB(40, 70, 120) -- Blue
+    messageFrame.BorderSizePixel = 0
+    messageFrame.Parent = ContentFrame
+    
+    local messageCorner = Instance.new("UICorner")
+    messageCorner.CornerRadius = UDim.new(0, 6)
+    messageCorner.Parent = messageFrame
+    
+    local messageLabel = Instance.new("TextLabel")
+    messageLabel.Size = UDim2.new(0.25, 0, 1, 0)
+    messageLabel.Position = UDim2.new(0, 5, 0, 0)
+    messageLabel.BackgroundTransparency = 1
+    messageLabel.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+    messageLabel.Text = "Msg " .. i .. ":"
+    messageLabel.TextScaled = true
+    messageLabel.Font = Enum.Font.Gotham
+    messageLabel.TextXAlignment = Enum.TextXAlignment.Left
+    messageLabel.Parent = messageFrame
+    
+    local messageBox = Instance.new("TextBox")
+    messageBox.Size = UDim2.new(0.7, -10, 0.7, 0)
+    messageBox.Position = UDim2.new(0.25, 5, 0.15, 0)
+    messageBox.BackgroundColor3 = Color3.fromRGB(30, 50, 90) -- Dark blue
+    messageBox.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+    messageBox.Text = "Message " .. i
+    messageBox.PlaceholderText = "Type message..."
+    messageBox.PlaceholderColor3 = Color3.fromRGB(200, 180, 100) -- Light gold
+    messageBox.Font = Enum.Font.Gotham
+    messageBox.TextScaled = true
+    messageBox.Parent = messageFrame
+    
+    local boxCorner = Instance.new("UICorner")
+    boxCorner.CornerRadius = UDim.new(0, 6)
+    boxCorner.Parent = messageBox
+    
+    table.insert(messageBoxes, messageBox)
+end
+
+-- Control buttons - Blue theme with gold text
+local StartButton = Instance.new("TextButton")
+StartButton.Size = UDim2.new(0.48, 0, 0, 35)
+StartButton.Position = UDim2.new(0, 0, 1, -45)
+StartButton.BackgroundColor3 = Color3.fromRGB(30, 100, 200) -- Bright blue
+StartButton.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+StartButton.Text = "START"
+StartButton.Font = Enum.Font.GothamBold
+StartButton.TextScaled = true
+StartButton.Parent = ContentFrame
+
+local StartCorner = Instance.new("UICorner")
+StartCorner.CornerRadius = UDim.new(0, 8)
+StartCorner.Parent = StartButton
+
+local StopButton = Instance.new("TextButton")
+StopButton.Size = UDim2.new(0.48, 0, 0, 35)
+StopButton.Position = UDim2.new(0.52, 0, 1, -45)
+StopButton.BackgroundColor3 = Color3.fromRGB(50, 80, 120) -- Dark blue
+StopButton.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+StopButton.Text = "STOP"
+StopButton.Font = Enum.Font.GothamBold
+StopButton.TextScaled = true
+StopButton.Parent = ContentFrame
+
+local StopCorner = Instance.new("UICorner")
+StopCorner.CornerRadius = UDim.new(0, 8)
+StopCorner.Parent = StopButton
+
+-- Status label - Gold text
+local StatusLabel = Instance.new("TextLabel")
+StatusLabel.Size = UDim2.new(1, 0, 0, 18)
+StatusLabel.Position = UDim2.new(0, 0, 1, -22)
+StatusLabel.BackgroundTransparency = 1
+StatusLabel.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+StatusLabel.Text = "Status: OFF | Mode: AUTO | Interval: 1.5s"
+StatusLabel.TextScaled = true
+StatusLabel.Font = Enum.Font.Gotham
+StatusLabel.TextXAlignment = Enum.TextXAlignment.Center
+StatusLabel.Parent = ContentFrame
+
+-- FULL DRAGGING SYSTEM - ANYWHERE ON MAINFRAME
+local dragging = false
+local dragInput
+local dragStart
+local startPos
+
+local function updateInput(input)
+    if not dragging then return end
+    
+    local delta = input.Position - dragStart
+    MainFrame.Position = UDim2.new(
+        startPos.X.Scale,
+        startPos.X.Offset + delta.X,
+        startPos.Y.Scale, 
+        startPos.Y.Offset + delta.Y
+    )
+end
+
+-- Make ENTIRE MainFrame draggable (except text boxes and buttons)
+MainFrame.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+        -- Check if we're clicking on a text box or button
+        local target = input.Target
+        if target:IsA("TextBox") or target:IsA("TextButton") then
+            if target ~= MainFrame and target ~= CloseButton then
+                return -- Don't drag if clicking on interactive elements
+            end
+        end
+        
+        dragging = true
+        dragStart = input.Position
+        startPos = MainFrame.Position
+        
+        -- Visual feedback
+        MainFrame.BackgroundColor3 = Color3.fromRGB(35, 55, 95)
+        
+        local connection
+        connection = input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging = false
+                MainFrame.BackgroundColor3 = Color3.fromRGB(25, 40, 65)
+                if connection then
+                    connection:Disconnect()
+                end
+            end
+        end)
+    end
+end)
+
+MainFrame.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseMovement then
+        dragInput = input
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        updateInput(input)
+    end
+end)
+
+-- Also make TitleBar draggable separately
+TitleBar.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = true
+        dragStart = input.Position
+        startPos = MainFrame.Position
+        
+        TitleBar.BackgroundColor3 = Color3.fromRGB(60, 100, 160)
+        
+        local connection
+        connection = input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging = false
+                TitleBar.BackgroundColor3 = Color3.fromRGB(40, 80, 140)
+                if connection then
+                    connection:Disconnect()
+                end
+            end
+        end)
+    end
+end)
+
+-- SPAM SYSTEM
+local function safeSendMessage(message)
+    local success, result = pcall(function()
+        -- Try new chat system first
+        local textChatService = game:GetService("TextChatService")
+        if textChatService and textChatService.TextChannels then
+            local channel = textChatService.TextChannels.RBXGeneral
+            if channel then
+                channel:SendAsync(message)
+                return true
+            end
+        end
+        
+        -- Try old chat system
+        local replicatedStorage = game:GetService("ReplicatedStorage")
+        if replicatedStorage:FindFirstChild("DefaultChatSystemChatEvents") then
+            local chatEvents = replicatedStorage.DefaultChatSystemChatEvents
+            if chatEvents:FindFirstChild("SayMessageRequest") then
+                chatEvents.SayMessageRequest:FireServer(message, "All")
+                return true
+            end
+        end
+        
+        return false
+    end)
+    
+    if not success then
+        warn("Message failed: " .. tostring(result))
+        return false
+    end
+    return true
+end
+
+local function sendSingleMessage()
+    local message = messageBoxes[currentMessageIndex].Text
+    if message and message ~= "" then
+        safeSendMessage(message)
+        print("Sent single: " .. message)
+    end
+    
+    -- Move to next message for next single spam
+    currentMessageIndex = currentMessageIndex + 1
+    if currentMessageIndex > 6 then
+        currentMessageIndex = 1
+    end
+end
+
+local function sendNextMessage()
+    if not spamActive then return end
+    
+    local message = messageBoxes[currentMessageIndex].Text
+    if message and message ~= "" then
+        safeSendMessage(message)
+        print("Sent auto: " .. message)
+    end
+    
+    currentMessageIndex = currentMessageIndex + 1
+    if currentMessageIndex > 6 then
+        currentMessageIndex = 1
+    end
+end
+
+local function startSpam()
+    if spamActive and spamMode == "auto" then return end
+    
+    if spamMode == "auto" then
+        -- Auto mode
+        spamActive = true
+        currentMessageIndex = 1
+        StatusLabel.Text = "Status: ON | Mode: AUTO | Interval: 1.5s"
+        StatusLabel.TextColor3 = Color3.fromRGB(0, 255, 0) -- Green when active
+        
+        if spamThread then
+            spamThread:Disconnect()
+        end
+        
+        spamThread = RunService.Heartbeat:Connect(function()
+            if spamActive then
+                sendNextMessage()
+                local elapsed = 0
+                while elapsed < SPAM_INTERVAL and spamActive do
+                    elapsed = elapsed + RunService.Heartbeat:Wait()
+                end
+            end
+        end)
+    else
+        -- Single mode - send just one message
+        sendSingleMessage()
+        StatusLabel.Text = "Status: SINGLE SENT | Mode: SINGLE | Interval: 1.5s"
+        StatusLabel.TextColor3 = Color3.fromRGB(255, 255, 0) -- Yellow for single
+        
+        -- Reset status after 2 seconds
+        delay(2, function()
+            if not spamActive then
+                StatusLabel.Text = "Status: OFF | Mode: SINGLE | Interval: 1.5s"
+                StatusLabel.TextColor3 = Color3.fromRGB(255, 215, 0) -- Back to gold
+            end
+        end)
+    end
+end
+
+local function stopSpam()
+    spamActive = false
+    if spamThread then
+        spamThread:Disconnect()
+        spamThread = nil
+    end
+    StatusLabel.Text = "Status: OFF | Mode: " .. (spamMode == "auto" and "AUTO" or "SINGLE") .. " | Interval: 1.5s"
+    StatusLabel.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold color
+end
+
+-- Update mode buttons appearance
+local function updateModeButtons()
+    if spamMode == "auto" then
+        AutoModeButton.BackgroundColor3 = Color3.fromRGB(30, 100, 200) -- Bright blue
+        AutoModeButton.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold
+        SingleModeButton.BackgroundColor3 = Color3.fromRGB(50, 80, 120) -- Dark blue
+        SingleModeButton.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold
+    else
+        SingleModeButton.BackgroundColor3 = Color3.fromRGB(30, 100, 200) -- Bright blue
+        SingleModeButton.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold
+        AutoModeButton.BackgroundColor3 = Color3.fromRGB(50, 80, 120) -- Dark blue
+        AutoModeButton.TextColor3 = Color3.fromRGB(255, 215, 0) -- Gold
+    end
+end
+
+-- BUTTON EVENTS
+StartButton.MouseButton1Click:Connect(function()
+    startSpam()
+end)
+
+StopButton.MouseButton1Click:Connect(function()
+    stopSpam()
+end)
+
+CloseButton.MouseButton1Click:Connect(function()
+    stopSpam()
+    ScreenGui:Destroy()
+end)
+
+-- Mode button events
+AutoModeButton.MouseButton1Click:Connect(function()
+    spamMode = "auto"
+    updateModeButtons()
+    StatusLabel.Text = "Status: OFF | Mode: AUTO | Interval: 1.5s"
+end)
+
+SingleModeButton.MouseButton1Click:Connect(function()
+    spamMode = "single"
+    updateModeButtons()
+    StatusLabel.Text = "Status: OFF | Mode: SINGLE | Interval: 1.5s"
+end)
+
+-- TEST: Add some sample messages
+messageBoxes[1].Text = "Hello everyone!"
+messageBoxes[2].Text = "This is spam system"
+messageBoxes[3].Text = "Working perfectly!"
+messageBoxes[4].Text = "Mobile compatible"
+messageBoxes[5].Text = "Drag anywhere!"
+messageBoxes[6].Text = "Enjoy spamming!"
+
+-- Initialize mode buttons
+updateModeButtons()
+
+print("=== SPAM SYSTEM LOADED ===")
+print("✓ GUI Created - Blue Theme with Gold Text")
+print("✓ 6 Message Boxes") 
+print("✓ AUTO & SINGLE Spam Modes")
+print("✓ FULLY DRAGGABLE - Click anywhere to move!")
+print("✓ 1.5 Second Intervals")
+print("✓ Made by MikeExc")
+print("✓ READY TO USE!")
