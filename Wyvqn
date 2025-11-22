@@ -1,3 +1,7 @@
+local url = "https://discord.gg/KvscEavEdy"
+setclipboard(url)
+print("Discord url has been copied to your clipboard!")
+
 -- Roblox Mobile Spam System - BLUE THEME WITH GOLD TEXT
 -- Small, draggable, with single spam mode
 -- Made by Mikeexc
