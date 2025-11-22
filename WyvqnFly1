@@ -1,1 +1,429 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local Y={"\070\053\117\083","\057\114\097\052\066\116\088\088\112\048\049\061","\089\098\066\048\088\099\118\090","\117\116\083\070\072\090\122\069\051\085\116\057\075\078\119\114\108\085\061\061";"\086\048\068\075\120\078\049\069\107\116\102\106\116\078\085\048\119\079\118\086\107\070\105\061";"\085\101\087\078\110\078\122\122\113\098\066\052";"\108\089\061\061","\078\079\101\111\085\075\118\082\056\049\061\061","\103\116\049\122\077\066\070\108\073\099\119\104\053\089\061\061";"\053\049\061\061","\054\070\057\115\055\085\061\061";"\084\071\054\106\049\047\085\061";"\074\106\072\108\100\089\085\071\056\067\118\055\110\085\061\061","\065\066\057\100\100\090\110\082\047\052\084\078\047\047\119\089\057\089\061\061","\105\109\090\078","\083\043\097\066\112\075\065\097\081\076\074\061","\074\115\112\056\118\108\047\105\087\086\074\061","\087\077\109\122\098\090\074\086\086\057\080\065\043\075\052\077\114\112\088\047\073\080\069\061";"\066\074\061\061";"\114\053\088\080\087\106\089\067\099\106\052\069\077\074\061\061","\089\057\112\104\088\079\110\076\105\104\079\115\054\109\050\055\043\083\075\119\056\066\116\118\107\089\061\061","\102\056\112\118","\067\055\121\087\098\087\097\086\110\120\075\106\105\049\061\061","\119\079\111\102\119\074\061\061","\121\107\116\105\111\104\070\084\087\089\061\061";"\112\113\117\057\109\073\117\121","\069\112\120\098\083\120\116\050\113\069\090\120","\043\079\112\101\050\087\121\121\097\074\061\061","\104\073\103\071\099\087\050\047\110\084\116\113\050\109\048\110\066\115\107\081\105\116\116\061";"\076\070\099\054\121\119\048\074\107\056\051\070\043\080\076\056\115\074\061\061";"\090\052\073\086\119\057\120\111\088\073\085\050\055\122\118\061";"\087\074\061\061";"\113\051\057\053\090\090\113\076\077\114\113\078\104\107\057\051","\118\079\084\067\048\056\107\114\119\074\061\061","\113\079\107\069\116\043\054\117\077\090\099\067\065\069\111\067\100\090\066\117\119\043\099\087\048\099\113\101\118\090\057\121\055\089\061\061";"\086\083\099\055\070\110\073\120\066\071\052\075\098\068\113\104\089\089\061\061";"\098\106\099\077\066\085\100\117\047\117\106\101";"\098\057\106\089\070\074\118\079\104\074\061\061";"\109\100\101\076\114\107\113\077\111\077\103\078","\087\072\070\047\082\082\070\053\117\067\069\061";"\089\051\081\117\075\057\080\053\103\089\061\061";"\119\106\075\109\079\089\061\061","\069\104\077\111\083\102\119\067\077\074\061\061","\108\086\106\065","\055\100\107\115\066\090\083\083\081\074\061\061","\077\089\122\099\043\083\122\054\070\051\050\076","\051\087\086\077\077\073\100\047\069\056\099\079\118\066\074\061";"\047\121\085\056\075\081\072\070\083\085\086\101\104\078\043\070\115\055\087\076";"\084\085\061\061","\051\043\106\043\086\069\106\067\068\071\070\107\106\105\107\068\048\118\087\106\053\121\067\069\082\078\051\054\108\089\061\061";"\072\115\105\071\048\085\061\061","\050\050\112\106\078\074\061\061","\103\055\077\112\112\048\085\049\076\055\079\115\107\087\114\112\051\089\074\061";"\075\072\078\102","\098\069\070\103\097\108\077\119\109\052\069\061";"\055\116\103\107";"\047\122\106\068\106\089\061\061","\112\114\099\105\071\089\061\061";"\102\072\056\083\115\084\122\071\048\086\084\074\113\049\061\061";"\073\099\052\049","\048\100\075\116\103\107\103\097\048\089\105\061";"\065\056\054\087\048\112\053\061";"\117\089\061\061","\103\111\073\049\056\069\088\106";"\049\090\113\073\119\108\057\069\116\112\122\099\065\090\049\061";"\105\074\061\061";"\049\079\117\117\048\056\119\099\116\112\113\117\119\043\116\061";"\043\119\043\072\074\120\075\099\055\078\051\114\119\104\100\109\097\101\105\079\082\089\061\061";"\071\047\103\114\074\117\065\109\114\088\049\061","\047\068\055\119";"\076\118\111\084\107\120\082\098","\056\086\054\070\086\051\056\065\110\119\084\054","\086\084\073\119\105\070\048\088\108\112\057\112\050\089\061\061";"\067\071\048\117";"\068\099\051\054\076\049\098\114\088\069\088\052\076\085\061\061";"\120\071\121\110\122\118\105\053\083\120\057\119","\052\089\061\061","\066\102\109\098\070\085\061\061","\113\071\102\117\070\116\080\079\120\054\105\061";"\077\119\082\073\101\107\115\049\071\110\105\061","\107\116\113\102\048\047\053\061";"\105\110\120\102\057\065\115\082\056\050\075\061";"\116\050\057\098\114\099\078\085\077\082\111\105";"\102\048\120\119\099\085\061\061","\078\085\061\061","\074\050\047\121\100\085\061\061","\109\048\109\088\054\085\061\061";"\081\079\047\106";"\050\052\119\116\081\097\101\110\075\119\089\120\043\075\111\049\068\051\043\072\114\085\061\061";"\118\081\107\055\097\090\117\118\105\079\116\061";"\071\049\061\061";"\117\066\088\112","\056\070\053\121\073\048\088\049\115\077\086\061";"\056\088\052\054\087\067\073\088";"\077\049\061\061","\117\108\055\055\121\102\086\090\109\071\086\102";"\066\104\068\099\088\085\043\081\088\089\066\055\043\089\061\061","\071\078\110\106\055\082\122\056\074\072\054\089\081\074\061\061";"\053\089\065\114\065\089\061\061","\080\068\086\056\052\121\113\119\075\083\076\116";"\118\049\061\061","\052\122\065\108\077\100\056\105\119\100\079\107\083\066\103\104\122\047\071\078\122\049\061\061";"\068\076\078\065\075\099\051\120\071\113\106\061","\057\105\102\065\087\067\110\111\113\049\061\061","\049\099\069\085\100\049\061\061","\074\089\074\105\077\114\116\050\120\122\105\118";"\082\089\061\061";"\083\057\071\055\108\054\050\075\106\089\061\061","\047\101\077\080\080\114\110\115\050\047\106\108\057\116\085\061","\043\119\108\073\109\079\047\119\097\071\067\075\119\073\087\098\088\049\061\061","\076\101\085\075\098\099\105\072\075\076\047\089","\082\078\098\111\105\120\121\071\099\117\088\121";"\104\099\116\056","\056\099\055\105\048\089\061\061","\054\057\068\069\054\087\122\055\080\078\082\082","\090\113\109\109\081\068\055\116\107\107\079\090\097\055\117\122\122\049\061\061";"\077\066\113\053\090\116\085\104\066\049\061\061","\050\076\080\080\087\079\048\087\097\085\061\061","\103\081\074\061","\107\053\065\069\086\109\071\079\090\089\061\061","\047\067\056\085\117\105\105\072";"\078\073\100\049\113\102\068\052\109\069\067\076\119\086\101\121\069\078\051\086\053\111\086\061";"\114\043\048\082\115\079\081\107\111\069\049\089\086\051\105\061","\049\080\099\056";"\097\121\109\101\118\071\082\078\118\089\061\061","\065\066\066\050\043\113\081\078\089\086\086\088\088\104\050\115\087\088\111\110","\104\047\111\086\108\115\076\073\089\052\047\115\078\071\075\073\097\116\102\111\056\085\061\061","\067\089\061\061";"\083\119\102\056\087\074\061\061","\098\078\090\100\077\113\121\104\080\049\061\061";"\104\056\106\081\089\077\085\077\049\113\074\061","\103\049\061\061";"\065\081\101\103\077\120\056\102\109\043\047\080\051\074\061\061","\119\051\113\072\057\111\122\118\057\114\110\088\065\047\110\103\116\052\089\061";"\075\053\049\117\103\089\061\061","\098\072\112\086\055\078\111\097\043\074\049\061","\043\074\061\061","\101\110\107\079\089\047\116\116\075\055\054\056\049\051\101\106\081\082\050\082\100\078\069\061";"\103\074\061\061";"\081\090\070\051\119\043\111\067\118\079\116\061","\108\057\120\108\113\047\120\088\078\050\082\061","\078\108\053\088\090\120\081\117\114\110\050\106\088\089\104\087","\065\089\061\061","\055\102\102\104\086\118\074\053","\100\113\102\099\088\088\052\086\052\055\089\061","\069\110\078\115\121\072\070\067\054\112\069\061","\048\078\052\061";"\084\043\115\107","\065\079\066\117\119\043\057\105","\067\056\071\098\100\072\050\103","\112\102\105\101\102\120\081\111\112\074\061\061","\107\076\102\056\049\051\113\088\065\076\110\053\057\086\116\079\090\076\049\061","\067\068\106\120\079\090\086\106\080\100\078\049";"\053\117\120\082\074\115\084\100\099\106\068\061";"\103\053\088\088\113\073\120\117\065\049\061\061";"\078\121\099\115\107\054\057\047\110\105\082\061","\121\109\065\043\070\049\113\079\078\078\116\061","\080\056\066\099\073\119\069\055\111\074\061\061";"\070\089\061\061";"\109\111\073\090\102\119\072\065\106\098\099\086\103\081\102\111\122\104\109\067\071\098\089\061","\068\079\102\112\089\079\122\071\065\074\061\061","\070\080\054\078\120\089\116\081\085\079\100\050\084\078\105\061","\070\103\115\081\079\106\079\057\101\047\067\050","\072\080\113\112\106\090\118\100";"\070\079\076\069\048\089\061\061","\077\069\121\105\049\085\061\061","\080\101\113\107\047\104\047\055\082\082\075\057\072\079\079\121\101\074\061\061","\056\043\088\086\069\086\112\053\066\085\061\061","\074\078\118\088\079\085\117\050\068\112\113\073\075\109\075\103\048\089\061\061";"\107\056\107\114\119\043\084\101\082\089\061\061";"\067\115\104\118\098\104\085\075\048\101\085\061";"\107\119\081\104\106\079\074\116\090\049\061\061";"\068\122\112\110\079\115\112\051\120\049\061\061","\102\105\103\099\119\089\061\061","\102\049\061\061","\112\081\054\056","\052\085\061\061","\106\083\070\098\081\086\043\118\116\105\073\118\075\067\065\102\112\049\061\061","\065\079\117\074\104\104\051\048\078\050\068\117\082\109\066\121\099\051\053\116\048\074\061\061";"\114\098\104\055\100\049\061\061";"\065\112\057\066\118\085\061\061","\086\080\066\113\089\103\075\112\100\049\061\061","\088\049\068\099\120\109\097\118\122\098\104\066";"\115\051\048\081\122\112\101\104";"\113\090\070\066\048\049\061\061";"\119\052\065\086\077\052\070\050\116\069\084\108\049\116\057\053","\053\071\086\065\117\108\084\121\117\049\061\061","\077\051\107\076\120\050\082\115\066\049\061\061","\057\084\057\102\051\082\116\051\043\056\051\087\043\122\066\057\049\099\081\049\071\047\105\061","\065\069\117\068\104\043\065\070\049\056\111\076\090\086\084\105\081\085\061\061","\074\054\099\119\053\088\053\112\072\122\066\074","\048\078\053\061";"\087\089\061\061";"\089\055\107\089\099\074\061\061","\043\049\061\061","\099\089\061\061";"\066\120\086\061";"\089\074\043\051\071\043\086\114\051\066\082\061";"\108\114\079\048";"\073\089\061\061","\087\085\121\079";"\110\111\106\122\070\111\089\088\043\051\112\047\049\105\047\119\097\049\061\061";"\084\108\067\077\070\069\108\116\116\082\105\052";"\109\086\074\119\110\077\055\056\099\117\053\061";"\114\072\120\103\069\072\077\089\103\052\047\122";"\048\085\061\061";"\117\107\068\098\080\099\105\084\051\082\113\068\047\079\084\080\103\047\099\043\066\084\055\061","\057\089\061\061","\043\082\114\097\105\073\077\074\087\049\061\061","\111\122\107\078\112\054\090\089\103\100\102\070";"\075\074\061\061";"\056\049\061\061","\121\067\047\111\115\043\115\068\120\120\085\083";"\047\079\074\104\080\081\069\112\090\051\098\084","\100\078\107\080\081\108\090\051","\074\115\073\113\102\067\086\082\102\056\077\068\106\109\083\072\108\050\084\122\106\112\105\061";"\078\075\097\103\083\047\076\110\122\110\049\085\069\117\105\068\118\049\061\061";"\113\089\061\061","\049\069\065\101\118\090\066\099";"\071\056\074\043\120\089\055\079\085\047\071\054","\051\089\080\118\103\052\104\055\048\099\107\113\077\049\061\061";"\083\122\072\122\101\117\050\071\072\078\082\061","\068\108\098\087\084\053\101\106\082\112\116\061";"\100\074\061\061","\049\099\057\070\065\056\102\068\082\052\111\081\107\112\074\070\047\074\061\061";"\071\056\121\054\078\069\109\111\051\112\107\090\112\117\111\075\104\049\061\061","\053\085\057\074\087\111\086\043\102\078\086\061";"\110\078\108\057\053\119\114\056\103\049\068\061","\104\080\105\086\104\085\061\061";"\122\049\106\053\075\114\109\115\099\099\049\106\106\085\061\061";"\100\047\117\066\057\107\110\081\082\114\119\051\082\043\117\071","\082\049\061\061","\070\117\101\104\070\089\061\061","\082\108\067\116","\055\043\117\055\122\116\101\078\089\078\113\107\115\079\118\121\122\101\119\055","\101\077\084\100\108\090\118\081","\043\090\099\055\108\117\055\052\119\122\085\113\090\074\061\061","\072\070\107\079\116\105\082\086\087\089\061\061","\106\075\088\069\065\107\103\106\084\075\086\105\118\109\053\079\048\108\090\105\048\074\069\061","\072\112\056\043\086\074\061\061","\103\073\104\051\122\108\072\077\043\085\075\065","\083\116\051\102\075\103\067\107\051\072\081\107";"\073\105\117\087\082\085\061\061","\101\119\086\075\088\074\085\104\108\116\115\078";"\051\055\115\068\098\043\066\085\052\047\089\061","\048\047\055\070\081\099\085\089\048\051\055\051\077\116\111\051";"\118\068\117\121\087\110\112\090";"\101\114\049\106\088\065\075\068\097\105\082\054","\073\083\050\112\075\048\077\052\052\118\118\050\049\074\061\061","\088\085\061\061";"\075\050\056\109\102\121\043\108\053\043\081\053\050\115\051\100\098\120\051\057\081\102\074\061","\049\049\061\061";"\119\043\111\071\048\043\116\061";"\097\120\083\115\043\085\061\061";"\054\107\118\051\114\051\053\104\090\072\122\103";"\080\088\080\047\065\083\121\103";"\116\090\113\113\090\043\099\057\081\107\111\070\119\108\099\103","\072\073\051\112\120\120\114\067\069\043\072\055","\102\072\098\070\078\085\061\061","\112\072\088\047";"\080\085\061\061";"\085\104\075\108\085\053\121\114\102\057\068\061";"\090\043\066\090\102\120\089\074\057\047\104\108\107\056\105\061","\119\049\061\061","\077\120\086\118\103\084\074\122\050\051\111\050\071\067\074\082\111\085\061\061";"\108\088\074\069";"\055\109\110\102\048\076\049\061";"\069\078\121\048\089\051\097\051\051\052\085\061";"\089\074\070\089\043\052\075\082\073\075\106\061";"\112\068\070\071\048\104\070\054\102\069\077\083\073\057\065\100\122\074\053\116\109\049\061\061";"\117\110\047\089\053\066\114\118\115\043\118\080\070\048\107\113\089\049\061\061","\107\084\114\072\081\075\082\117\071\055\100\051","\108\052\106\048\043\081\117\067\054\110\055\061";"\115\121\054\056\070\065\110\089\048\078\099\113\114\085\061\061";"\104\120\076\083\088\085\061\061","\113\077\122\056\110\054\047\097\076\122\051\111","\090\099\068\097","\086\105\088\069\070\072\071\067\069\112\071\103\083\117\118\056\099\100\098\048\056\089\061\061";"\111\085\061\061","\120\099\097\074\065\108\098\115\089\074\078\122\076\098\048\065\055\074\061\061","\083\067\120\110\074\116\055\104\047\049\061\061","\099\065\054\089\088\075\120\082\065\071\070\117","\100\073\100\087\122\103\054\071\112\075\116\084";"\097\084\072\071\097\067\121\076\118\051\122\117","\106\074\061\061","\114\074\073\115\085\075\121\077\102\084\048\115\076\052\069\088\056\056\112\089";"\053\105\113\047\075\067\101\099\051\074\061\061";"\122\085\061\061","\100\076\102\099\053\056\088\069\105\083\053\067","\103\110\102\048\118\118\109\055\101\071\054\087\076\085\048\097\078\121\075\088";"\069\108\078\074\051\106\099\077\101\054\121\106\121\114\118\061","\075\073\097\067\111\101\049\065\110\088\047\099\107\101\082\107\112\065\049\106\090\085\061\061","\049\107\097\108\068\106\069\108\068\057\106\055","\119\043\084\051\119\109\110\102\048\056\055\061";"\100\121\080\068\098\056\099\117\056\076\069\061","\114\080\043\055","\118\117\119\111\074\088\072\117\052\109\118\061","\048\090\111\069\100\074\061\061","\119\069\086\101\109\108\055\086\104\104\106\061","\078\118\120\122\055\079\073\079\086\074\061\061","\119\043\084\067\119\090\066\071\065\108\053\061";"\057\049\061\061","\108\066\084\076\118\089\061\061","\050\111\068\102\101\120\111\069\065\074\121\078\073\085\061\061";"\083\085\047\106\067\113\116\121\114\082\049\069\053\120\098\054\110\111\071\099\084\049\061\061";"\066\070\099\121\119\049\061\061";"\117\114\072\084\074\109\102\107\106\079\116\061","\070\043\109\118\075\089\061\061","\114\043\111\101\082\051\076\101\052\070\114\104","\109\086\047\076","\051\103\067\120\072\049\061\061";"\074\057\120\084\089\082\051\068\117\065\085\061";"\075\088\076\056\047\054\086\079\103\085\061\061";"\048\074\061\061","\107\049\117\113\054\074\049\105\071\071\057\099\108\076\120\074";"\113\121\049\054\070\047\056\068\051\069\048\088","\090\107\113\087\057\069\111\068\077\109\102\079\048\076\099\110\119\051\118\061","\120\102\053\109\077\117\054\073\086\066\110\056\048\113\097\101";"\121\089\056\084\051\078\088\084\099\122\114\119","\112\049\122\111\069\101\102\112\080\116\106\061","\055\067\088\103\119\089\061\061","\089\105\102\069\070\110\086\061";"\056\085\105\121\109\122\082\113\118\087\099\054\072\074\061\061","\113\056\099\067\065\052\065\102\055\076\057\069\049\079\117\102\048\043\113\050\065\086\057\106\118\108\057\051";"\097\101\101\074\047\110\111\114\101\097\074\061";"\080\047\082\113\097\076\086\083\120\089\061\061";"\087\074\071\112\087\069\117\117\107\067\074\117","\068\073\105\066\122\055\112\067\074\112\089\061","\065\102\117\067\055\048\074\114";"\085\109\108\106\078\089\068\049\121\099\100\108","\105\108\050\081","\108\053\106\052\047\068\115\114\106\089\061\061";"\085\115\087\057\108\076\079\121\086\074\061\061";"\047\109\101\089\104\071\103\089\067\121\085\120\106\052\119\098\088\043\077\082\051\065\085\061";"\112\043\043\056\098\104\114\116\119\056\113\054\114\048\100\069\111\106\043\086\086\049\061\061";"\068\065\052\118\098\071\097\084\119\089\103\085\116\087\112\050\069\114\077\104\051\074\073\102\111\077\074\079\051\049\061\061";"\047\116\103\068\107\112\099\051\048\099\102\099\055\086\057\051\113\085\061\061","\090\082\100\083\072\075\048\053\077\100\086\061";"\104\084\098\072\083\066\122\076\105\078\106\075\077\121\053\089\069\102\068\077\121\085\116\061";"\086\047\067\103\069\082\087\113\065\048\088\055\102\071\049\061";"\054\114\072\054\082\076\101\083\102\067\100\097","\073\090\047\119\121\056\083\081\118\097\113\100\104\120\047\112\110\089\061\061","\086\053\049\073\104\122\109\079\043\074\061\061","\100\101\047\107\089\049\061\061";"\080\057\086\065";"\081\089\061\061";"\051\112\089\113\074\103\049\118\088\071\116\061","\100\116\071\109","\118\119\070\051\079\071\115\053\089\100\112\089\113\122\079\066\068\075\108\057","\084\112\053\108\076\118\103\122\121\109\087\115\097\112\077\078\114\089\061\061","\100\069\056\115","\087\079\053\108\056\076\089\121\050\047\057\098";"\052\054\100\089\109\056\081\057\070\080\050\118\071\084\071\056\077\049\061\061","\077\098\117\053\054\116\088\109\106\114\052\061";"\080\079\115\089\089\074\061\061";"\106\049\061\061";"\090\106\074\122\065\075\099\107\088\122\054\112\072\109\115\077\116\049\061\061";"\102\073\097\047\085\073\105\071\081\049\105\061";"\121\085\061\061";"\070\088\103\054\065\086\089\118\090\077\054\072\082\088\116\122\122\079\073\109\107\074\061\061","\079\074\088\103\117\087\089\061";"\051\085\061\061","\069\073\082\082","\081\074\069\117\105\086\107\082\053\119\053\061";"\117\081\090\070","\065\121\057\072\108\082\090\043\121\111\056\085";"\076\085\061\061","\090\089\061\061";"\102\089\061\061","\087\119\080\083\073\050\112\116\117\069\086\061","\052\051\088\078\050\052\083\097\114\103\066\048","\119\074\061\061","\083\084\113\072\079\047\102\069\104\047\120\086";"\082\107\070\085\102\088\043\073\043\049\047\099\089\083\115\122\050\109\119\048","\110\078\081\057\108\107\088\084","\056\076\115\079\048\056\115\100\056\079\106\105\102\100\082\061";"\117\108\066\072\054\122\049\080\055\097\097\087\071\089\061\061","\055\083\086\098\114\105\110\073\119\101\108\079","\054\067\073\112\102\068\086\074\056\057\120\078";"\055\079\107\069\048\090\107\069\118\108\113\117\118\056\054\099","\098\072\043\043\106\120\071\070\119\119\099\066";"\083\057\043\116\099\089\061\061","\086\085\061\061";"\055\051\057\053\048\076\097\101\117\104\077\048\120\105\049\047\108\100\109\117\082\099\052\061","\117\111\118\051";"\081\102\074\057\119\088\115\056\117\106\076\054\119\049\061\061","\116\049\069\111\119\099\049\061","\110\086\083\081\098\049\061\061","\049\074\061\061","\056\115\087\101\083\110\106\120\053\070\106\061";"\122\074\061\061";"\122\105\070\077\090\119\066\074\043\116\079\078\066\082\078\055\085\108\086\070\067\075\116\061","\065\100\055\114\111\056\078\075\066\077\101\076\057\043\116\049\110\067\121\108\085\051\069\048\086\057\106\108\067\085\061\061","\076\118\087\104\116\100\049\079\104\043\087\051\076\074\075\056\100\103\080\081\098\119\118\061";"\070\117\108\114\076\102\101\077\088\085\061\061";"\107\079\111\102\119\074\061\061","\069\100\113\089\108\089\113\065","\113\043\107\051\119\109\110\087\077\049\061\061";"\071\105\074\051\102\047
+local url = "https://discord.gg/KvscEavEdy"
+setclipboard(url)
+print("Discord url has been copied to your clipboard!")
+
+-- Mikeexc Fly Gui Hub --
+local main = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local up = Instance.new("TextButton")
+local down = Instance.new("TextButton")
+local onof = Instance.new("TextButton")
+local TextLabel = Instance.new("TextLabel")
+local plus = Instance.new("TextButton")
+local speed = Instance.new("TextLabel")
+local mine = Instance.new("TextButton")
+local closebutton = Instance.new("TextButton")
+local mini = Instance.new("TextButton")
+local mini2 = Instance.new("TextButton")
+
+main.Name = "main"
+main.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+main.ResetOnSpawn = false
+
+Frame.Parent = main
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+Frame.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Frame.Position = UDim2.new(0.100320168, 0, 0.379746825, 0)
+Frame.Size = UDim2.new(0, 190, 0, 57)
+
+up.Name = "up"
+up.Parent = Frame
+up.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+up.Size = UDim2.new(0, 44, 0, 28)
+up.Font = Enum.Font.SourceSans
+up.Text = "↑"
+up.TextColor3 = Color3.fromRGB(0, 0, 0)
+up.TextSize = 14.000
+
+down.Name = "down"
+down.Parent = Frame
+down.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+down.Position = UDim2.new(0, 0, 0.491228074, 0)
+down.Size = UDim2.new(0, 44, 0, 28)
+down.Font = Enum.Font.SourceSans
+down.Text = "↓"
+down.TextColor3 = Color3.fromRGB(0, 0, 0)
+down.TextSize = 14.000
+
+onof.Name = "onof"
+onof.Parent = Frame
+onof.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+onof.Position = UDim2.new(0.702823281, 0, 0.491228074, 0)
+onof.Size = UDim2.new(0, 56, 0, 28)
+onof.Font = Enum.Font.Michroma
+onof.Text = "Fly"
+onof.TextColor3 = Color3.fromRGB(0, 0, 0)
+onof.TextSize = 14.000
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
+TextLabel.Size = UDim2.new(0, 100, 0, 28)
+TextLabel.Font = Enum.Font.Michroma
+TextLabel.Text = "Script Made By Mikeexc"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+plus.Name = "plus"
+plus.Parent = Frame
+plus.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+plus.Position = UDim2.new(0.231578946, 0, 0, 0)
+plus.Size = UDim2.new(0, 45, 0, 28)
+plus.Font = Enum.Font.SourceSans
+plus.Text = "+"
+plus.TextColor3 = Color3.fromRGB(0, 0, 0)
+plus.TextScaled = true
+plus.TextSize = 14.000
+plus.TextWrapped = true
+
+speed.Name = "speed"
+speed.Parent = Frame
+speed.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+speed.Position = UDim2.new(0.468421042, 0, 0.491228074, 0)
+speed.Size = UDim2.new(0, 44, 0, 28)
+speed.Font = Enum.Font.SourceSans
+speed.Text = "1"
+speed.TextColor3 = Color3.fromRGB(0, 0, 0)
+speed.TextScaled = true
+speed.TextSize = 14.000
+speed.TextWrapped = true
+
+mine.Name = "mine"
+mine.Parent = Frame
+mine.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+mine.Position = UDim2.new(0.231578946, 0, 0.491228074, 0)
+mine.Size = UDim2.new(0, 45, 0, 29)
+mine.Font = Enum.Font.SourceSans
+mine.Text = "-"
+mine.TextColor3 = Color3.fromRGB(0, 0, 0)
+mine.TextScaled = true
+mine.TextSize = 14.000
+mine.TextWrapped = true
+
+closebutton.Name = "Close"
+closebutton.Parent = main.Frame
+closebutton.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+closebutton.Font = "Michroma"
+closebutton.Size = UDim2.new(0, 45, 0, 28)
+closebutton.Text = "x"
+closebutton.TextColor3 = Color3.fromRGB(0, 0, 0)
+closebutton.TextSize = 30
+closebutton.Position = UDim2.new(0, 0, -1, 27)
+
+mini.Name = "minimize"
+mini.Parent = main.Frame
+mini.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+mini.Font = "Michroma"
+mini.Size = UDim2.new(0, 45, 0, 28)
+mini.Text = "-"
+mini.TextColor3 = Color3.fromRGB(0, 0, 0)
+mini.TextSize = 40
+mini.Position = UDim2.new(0, 44, -1, 27)
+
+mini2.Name = "minimize2"
+mini2.Parent = main.Frame
+mini2.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+mini2.Font = "SourceSans"
+mini2.Size = UDim2.new(0, 45, 0, 28)
+mini2.Text = "+"
+mini2.TextColor3 = Color3.fromRGB(0, 0, 0)
+mini2.TextSize = 40
+mini2.Position = UDim2.new(0, 44, -1, 57)
+mini2.Visible = false
+
+speeds = 1
+local speaker = game:GetService("Players").LocalPlayer
+local chr = game.Players.LocalPlayer.Character
+local hum = chr and chr:FindFirstChildWhichIsA("Humanoid")
+nowe = false
+
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome";
+Text = "Script Made By Mikeexc";
+Icon = "";
+Duration = 5;
+})
+
+Frame.Active = true
+Frame.Draggable = true
+
+onof.MouseButton1Down:connect(function()
+ if nowe == true then
+  nowe = false
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Climbing,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Flying,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Freefall,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.GettingUp,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Jumping,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Landed,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Physics,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.PlatformStanding,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Running,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.RunningNoPhysics,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.StrafingNoPhysics,true)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Swimming,true)
+  speaker.Character.Humanoid:ChangeState(Enum.HumanoidStateType.RunningNoPhysics)
+ else 
+  nowe = true
+  for i = 1, speeds do
+   spawn(function()
+    local hb = game:GetService("RunService").Heartbeat 
+    tpwalking = true
+    local chr = game.Players.LocalPlayer.Character
+    local hum = chr and chr:FindFirstChildWhichIsA("Humanoid")
+    while tpwalking and hb:Wait() and chr and hum and hum.Parent do
+     if hum.MoveDirection.Magnitude > 0 then
+      chr:TranslateBy(hum.MoveDirection)
+     end
+    end
+   end)
+  end
+  game.Players.LocalPlayer.Character.Animate.Disabled = true
+  local Char = game.Players.LocalPlayer.Character
+  local Hum = Char:FindFirstChildOfClass("Humanoid") or Char:FindFirstChildOfClass("AnimationController")
+  for i,v in next, Hum:GetPlayingAnimationTracks() do
+   v:AdjustSpeed(0)
+  end
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Climbing,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Flying,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Freefall,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.GettingUp,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Jumping,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Landed,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Physics,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.PlatformStanding,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Running,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.RunningNoPhysics,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.StrafingNoPhysics,false)
+  speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Swimming,false)
+  speaker.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Swimming)
+ end
+ 
+ if game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Humanoid").RigType == Enum.HumanoidRigType.R6 then
+  local plr = game.Players.LocalPlayer
+  local torso = plr.Character.Torso
+  local flying = true
+  local deb = true
+  local ctrl = {f = 0, b = 0, l = 0, r = 0}
+  local lastctrl = {f = 0, b = 0, l = 0, r = 0}
+  local maxspeed = 50
+  local speed = 0
+  local bg = Instance.new("BodyGyro", torso)
+  bg.P = 9e4
+  bg.maxTorque = Vector3.new(9e9, 9e9, 9e9)
+  bg.cframe = torso.CFrame
+  local bv = Instance.new("BodyVelocity", torso)
+  bv.velocity = Vector3.new(0,0.1,0)
+  bv.maxForce = Vector3.new(9e9, 9e9, 9e9)
+  if nowe == true then
+   plr.Character.Humanoid.PlatformStand = true
+  end
+  while nowe == true or game:GetService("Players").LocalPlayer.Character.Humanoid.Health == 0 do
+   game:GetService("RunService").RenderStepped:Wait()
+   if ctrl.l + ctrl.r ~= 0 or ctrl.f + ctrl.b ~= 0 then
+    speed = speed+.5+(speed/maxspeed)
+    if speed > maxspeed then
+     speed = maxspeed
+    end
+   elseif not (ctrl.l + ctrl.r ~= 0 or ctrl.f + ctrl.b ~= 0) and speed ~= 0 then
+    speed = speed-1
+    if speed < 0 then
+     speed = 0
+    end
+   end
+   if (ctrl.l + ctrl.r) ~= 0 or (ctrl.f + ctrl.b) ~= 0 then
+    bv.velocity = ((game.Workspace.CurrentCamera.CoordinateFrame.lookVector * (ctrl.f+ctrl.b)) + ((game.Workspace.CurrentCamera.CoordinateFrame * CFrame.new(ctrl.l+ctrl.r,(ctrl.f+ctrl.b)*.2,0).p) - game.Workspace.CurrentCamera.CoordinateFrame.p))*speed
+    lastctrl = {f = ctrl.f, b = ctrl.b, l = ctrl.l, r = ctrl.r}
+   elseif (ctrl.l + ctrl.r) == 0 and (ctrl.f + ctrl.b) == 0 and speed ~= 0 then
+    bv.velocity = ((game.Workspace.CurrentCamera.CoordinateFrame.lookVector * (lastctrl.f+lastctrl.b)) + ((game.Workspace.CurrentCamera.CoordinateFrame * CFrame.new(lastctrl.l+lastctrl.r,(lastctrl.f+lastctrl.b)*.2,0).p) - game.Workspace.CurrentCamera.CoordinateFrame.p))*speed
+   else
+    bv.velocity = Vector3.new(0,0,0)
+   end
+   bg.cframe = game.Workspace.CurrentCamera.CoordinateFrame * CFrame.Angles(-math.rad((ctrl.f+ctrl.b)*50*speed/maxspeed),0,0)
+  end
+  ctrl = {f = 0, b = 0, l = 0, r = 0}
+  lastctrl = {f = 0, b = 0, l = 0, r = 0}
+  speed = 0
+  bg:Destroy()
+  bv:Destroy()
+  plr.Character.Humanoid.PlatformStand = false
+  game.Players.LocalPlayer.Character.Animate.Disabled = false
+  tpwalking = false
+ else
+  local plr = game.Players.LocalPlayer
+  local UpperTorso = plr.Character.UpperTorso
+  local flying = true
+  local deb = true
+  local ctrl = {f = 0, b = 0, l = 0, r = 0}
+  local lastctrl = {f = 0, b = 0, l = 0, r = 0}
+  local maxspeed = 50
+  local speed = 0
+  local bg = Instance.new("BodyGyro", UpperTorso)
+  bg.P = 9e4
+  bg.maxTorque = Vector3.new(9e9, 9e9, 9e9)
+  bg.cframe = UpperTorso.CFrame
+  local bv = Instance.new("BodyVelocity", UpperTorso)
+  bv.velocity = Vector3.new(0,0.1,0)
+  bv.maxForce = Vector3.new(9e9, 9e9, 9e9)
+  if nowe == true then
+   plr.Character.Humanoid.PlatformStand = true
+  end
+  while nowe == true or game:GetService("Players").LocalPlayer.Character.Humanoid.Health == 0 do
+   wait()
+   if ctrl.l + ctrl.r ~= 0 or ctrl.f + ctrl.b ~= 0 then
+    speed = speed+.5+(speed/maxspeed)
+    if speed > maxspeed then
+     speed = maxspeed
+    end
+   elseif not (ctrl.l + ctrl.r ~= 0 or ctrl.f + ctrl.b ~= 0) and speed ~= 0 then
+    speed = speed-1
+    if speed < 0 then
+     speed = 0
+    end
+   end
+   if (ctrl.l + ctrl.r) ~= 0 or (ctrl.f + ctrl.b) ~= 0 then
+    bv.velocity = ((game.Workspace.CurrentCamera.CoordinateFrame.lookVector * (ctrl.f+ctrl.b)) + ((game.Workspace.CurrentCamera.CoordinateFrame * CFrame.new(ctrl.l+ctrl.r,(ctrl.f+ctrl.b)*.2,0).p) - game.Workspace.CurrentCamera.CoordinateFrame.p))*speed
+    lastctrl = {f = ctrl.f, b = ctrl.b, l = ctrl.l, r = ctrl.r}
+   elseif (ctrl.l + ctrl.r) == 0 and (ctrl.f + ctrl.b) == 0 and speed ~= 0 then
+    bv.velocity = ((game.Workspace.CurrentCamera.CoordinateFrame.lookVector * (lastctrl.f+lastctrl.b)) + ((game.Workspace.CurrentCamera.CoordinateFrame * CFrame.new(lastctrl.l+lastctrl.r,(lastctrl.f+lastctrl.b)*.2,0).p) - game.Workspace.CurrentCamera.CoordinateFrame.p))*speed
+   else
+    bv.velocity = Vector3.new(0,0,0)
+   end
+   bg.cframe = game.Workspace.CurrentCamera.CoordinateFrame * CFrame.Angles(-math.rad((ctrl.f+ctrl.b)*50*speed/maxspeed),0,0)
+  end
+  ctrl = {f = 0, b = 0, l = 0, r = 0}
+  lastctrl = {f = 0, b = 0, l = 0, r = 0}
+  speed = 0
+  bg:Destroy()
+  bv:Destroy()
+  plr.Character.Humanoid.PlatformStand = false
+  game.Players.LocalPlayer.Character.Animate.Disabled = false
+  tpwalking = false
+ end
+end)
+
+local tis
+up.MouseButton1Down:connect(function()
+ tis = up.MouseEnter:connect(function()
+  while tis do
+   wait()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,1,0)
+  end
+ end)
+end)
+up.MouseLeave:connect(function()
+ if tis then
+  tis:Disconnect()
+  tis = nil
+ end
+end)
+
+local dis
+down.MouseButton1Down:connect(function()
+ dis = down.MouseEnter:connect(function()
+  while dis do
+   wait()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,-1,0)
+  end
+ end)
+end)
+down.MouseLeave:connect(function()
+ if dis then
+  dis:Disconnect()
+  dis = nil
+ end
+end)
+
+game:GetService("Players").LocalPlayer.CharacterAdded:Connect(function(char)
+ wait(0.7)
+ game.Players.LocalPlayer.Character.Humanoid.PlatformStand = false
+ game.Players.LocalPlayer.Character.Animate.Disabled = false
+end)
+
+plus.MouseButton1Down:connect(function()
+ speeds = speeds + 1
+ speed.Text = speeds
+ if nowe == true then
+  tpwalking = false
+  for i = 1, speeds do
+   spawn(function()
+    local hb = game:GetService("RunService").Heartbeat 
+    tpwalking = true
+    local chr = game.Players.LocalPlayer.Character
+    local hum = chr and chr:FindFirstChildWhichIsA("Humanoid")
+    while tpwalking and hb:Wait() and chr and hum and hum.Parent do
+     if hum.MoveDirection.Magnitude > 0 then
+      chr:TranslateBy(hum.MoveDirection)
+     end
+    end
+   end)
+  end
+ end
+end)
+
+mine.MouseButton1Down:connect(function()
+ if speeds == 1 then
+  speed.Text = '-1 speed fly bruh'
+  wait(1)
+  speed.Text = speeds
+ else
+  speeds = speeds - 1
+  speed.Text = speeds
+  if nowe == true then
+   tpwalking = false
+   for i = 1, speeds do
+    spawn(function()
+     local hb = game:GetService("RunService").Heartbeat 
+     tpwalking = true
+     local chr = game.Players.LocalPlayer.Character
+     local hum = chr and chr:FindFirstChildWhichIsA("Humanoid")
+     while tpwalking and hb:Wait() and chr and hum and hum.Parent do
+      if hum.MoveDirection.Magnitude > 0 then
+       chr:TranslateBy(hum.MoveDirection)
+      end
+     end
+    end)
+   end
+  end
+ end
+end)
+
+closebutton.MouseButton1Click:Connect(function()
+ main:Destroy()
+end)
+
+mini.MouseButton1Click:Connect(function()
+ up.Visible = false
+ down.Visible = false
+ onof.Visible = false
+ plus.Visible = false
+ speed.Visible = false
+ mine.Visible = false
+ mini.Visible = false
+ mini2.Visible = true
+ main.Frame.BackgroundTransparency = 1
+ closebutton.Position = UDim2.new(0, 0, -1, 57)
+end)
+
+mini2.MouseButton1Click:Connect(function()
+ up.Visible = true
+ down.Visible = true
+ onof.Visible = true
+ plus.Visible = true
+ speed.Visible = true
+ mine.Visible = true
+ mini.Visible = true
+ mini2.Visible = false
+ main.Frame.BackgroundTransparency = 0 
+ closebutton.Position = UDim2.new(0, 0, -1, 27)
+end)
