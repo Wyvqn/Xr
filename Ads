@@ -1,0 +1,83 @@
+local url = "https://discord.gg/KvscEavEdy"
+local TweenService = game:GetService("TweenService")
+
+-- Copy Discord link to clipboard
+setclipboard(url)
+
+-- Create UI
+local ScreenGui = Instance.new("ScreenGui")
+local NotificationFrame = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Message = Instance.new("TextLabel")
+local ProgressBar = Instance.new("Frame")
+
+-- ScreenGui
+ScreenGui.Name = "DiscordNotification"
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+-- Notification frame (starts off-screen)
+NotificationFrame.Name = "NotificationFrame"
+NotificationFrame.Parent = ScreenGui
+NotificationFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+NotificationFrame.Size = UDim2.new(0, 400, 0, 70)
+NotificationFrame.Position = UDim2.new(0, 20, 1, 100)
+NotificationFrame.BackgroundTransparency = 0.15
+
+UICorner.CornerRadius = UDim.new(0, 10)
+UICorner.Parent = NotificationFrame
+
+-- Message text
+Message.Name = "Message"
+Message.Parent = NotificationFrame
+Message.BackgroundTransparency = 1
+Message.Position = UDim2.new(0, 10, 0, 5) -- biraz yukarıdan başlasın
+Message.Size = UDim2.new(1, -20, 1, -15) -- frame yüksekliğini doldur
+Message.Font = Enum.Font.GothamSemibold
+Message.Text = "Discord link copied to clipboard.\nDon’t forget to join!" -- \n ile 2 katlı yapıldı
+Message.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message.TextSize = 15
+Message.TextXAlignment = Enum.TextXAlignment.Left
+Message.TextYAlignment = Enum.TextYAlignment.Top
+Message.TextWrapped = true
+
+-- Progress bar (mavi)
+ProgressBar.Name = "ProgressBar"
+ProgressBar.Parent = NotificationFrame
+ProgressBar.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
+ProgressBar.Position = UDim2.new(0, 0, 1, -5)
+ProgressBar.Size = UDim2.new(1, 0, 0, 5)
+ProgressBar.BorderSizePixel = 0
+
+-- Slide-up animation (enter)
+local slideInTween = TweenService:Create(
+	NotificationFrame,
+	TweenInfo.new(0.6, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+	{Position = UDim2.new(0, 20, 1, -100)}
+)
+slideInTween:Play()
+
+-- Progress bar animasyonu için 5 saniye
+local duration = 5
+local startTime = tick()
+task.spawn(function()
+	while tick() - startTime < duration do
+		local percent = (tick() - startTime) / duration
+		ProgressBar.Size = UDim2.new(1 - percent, 0, 0, 5)
+		task.wait(0.03)
+	end
+end)
+
+-- Stay visible 5 saniye
+task.wait(duration)
+
+-- Fade-out animation
+for i = 0.15, 1, 0.05 do
+	NotificationFrame.BackgroundTransparency = i
+	Message.TextTransparency = i
+	ProgressBar.BackgroundTransparency = i
+	task.wait(0.05)
+end
+
+-- Cleanup
+NotificationFrame:Destroy()
+ScreenGui:Destroy()
